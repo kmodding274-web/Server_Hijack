@@ -1,0 +1,13 @@
+{
+  "name": "silent-universal-proxy",
+  "version": "1.0.0",
+  "description": "serverless proxy",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
